@@ -1,0 +1,1 @@
+javascript:(async()=%3E%7Btry%7Bconst%20s=await%20navigator.mediaDevices.getUserMedia(%7Baudio:true%7D);alert(%22🎙%EF%B8%8F%20Microphone%20is%20ON!%22);window._micStream=s%7Dcatch(e)%7Balert(%22Microphone%20unavailable:%20%22+e.message)%7D%7D)();
