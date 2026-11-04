@@ -1,8 +1,5 @@
-# Easy-Microphone-Access
-An easy bookmarklet to activate your microphone on your iPad or mobile device if it doesn’t allow you to. While it’s not tested it might work on windows laptop and pc, and it should work on Mac OS.
 # 🎙️ Safari Microphone Launcher
-
-A lightweight JavaScript bookmarklet that allows users to activate their device's microphone directly from their browser.
+An easy bookmarklet to activate your microphone on your iPad or mobile device if it doesn’t allow you to. While it’s not tested it might work on windows laptop and pc, and it should work on Mac OS. A lightweight JavaScript bookmarklet that allows users to activate their device's microphone directly from their browser.
 
 ## ✨ Features
 
